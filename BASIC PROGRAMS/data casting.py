@@ -1,0 +1,12 @@
+a=100
+b=24.4
+c="farhana"
+d="39"
+e=True
+f=False
+print(int(f))
+print(int(e))
+print(str(a))
+print(int(b))
+print(int(d))
+print(float(d))
